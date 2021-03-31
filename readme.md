@@ -623,6 +623,7 @@ let list2: [string, ...number[]] = ['1', 2, 3, 4, 5, 6, 7];
 
    interface 
    type
+   
 
 
    
